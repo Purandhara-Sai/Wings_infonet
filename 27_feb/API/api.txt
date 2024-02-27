@@ -1,0 +1,3 @@
+API is a application programming interface 
+these are 3rd party services 
+like request etc.
